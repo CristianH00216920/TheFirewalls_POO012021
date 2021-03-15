@@ -1,0 +1,16 @@
+C:\Users\50376\Desktop\UCA\CICLO III\POO\Tareas\IntroGitHub\IntroGitHub\bin\Debug\net5.0\IntroGitHub.exe
+C:\Users\50376\Desktop\UCA\CICLO III\POO\Tareas\IntroGitHub\IntroGitHub\bin\Debug\net5.0\IntroGitHub.deps.json
+C:\Users\50376\Desktop\UCA\CICLO III\POO\Tareas\IntroGitHub\IntroGitHub\bin\Debug\net5.0\IntroGitHub.runtimeconfig.json
+C:\Users\50376\Desktop\UCA\CICLO III\POO\Tareas\IntroGitHub\IntroGitHub\bin\Debug\net5.0\IntroGitHub.runtimeconfig.dev.json
+C:\Users\50376\Desktop\UCA\CICLO III\POO\Tareas\IntroGitHub\IntroGitHub\bin\Debug\net5.0\IntroGitHub.dll
+C:\Users\50376\Desktop\UCA\CICLO III\POO\Tareas\IntroGitHub\IntroGitHub\bin\Debug\net5.0\ref\IntroGitHub.dll
+C:\Users\50376\Desktop\UCA\CICLO III\POO\Tareas\IntroGitHub\IntroGitHub\bin\Debug\net5.0\IntroGitHub.pdb
+C:\Users\50376\Desktop\UCA\CICLO III\POO\Tareas\IntroGitHub\IntroGitHub\obj\Debug\net5.0\IntroGitHub.csprojAssemblyReference.cache
+C:\Users\50376\Desktop\UCA\CICLO III\POO\Tareas\IntroGitHub\IntroGitHub\obj\Debug\net5.0\IntroGitHub.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\50376\Desktop\UCA\CICLO III\POO\Tareas\IntroGitHub\IntroGitHub\obj\Debug\net5.0\IntroGitHub.AssemblyInfoInputs.cache
+C:\Users\50376\Desktop\UCA\CICLO III\POO\Tareas\IntroGitHub\IntroGitHub\obj\Debug\net5.0\IntroGitHub.AssemblyInfo.cs
+C:\Users\50376\Desktop\UCA\CICLO III\POO\Tareas\IntroGitHub\IntroGitHub\obj\Debug\net5.0\IntroGitHub.csproj.CoreCompileInputs.cache
+C:\Users\50376\Desktop\UCA\CICLO III\POO\Tareas\IntroGitHub\IntroGitHub\obj\Debug\net5.0\IntroGitHub.dll
+C:\Users\50376\Desktop\UCA\CICLO III\POO\Tareas\IntroGitHub\IntroGitHub\obj\Debug\net5.0\ref\IntroGitHub.dll
+C:\Users\50376\Desktop\UCA\CICLO III\POO\Tareas\IntroGitHub\IntroGitHub\obj\Debug\net5.0\IntroGitHub.pdb
+C:\Users\50376\Desktop\UCA\CICLO III\POO\Tareas\IntroGitHub\IntroGitHub\obj\Debug\net5.0\IntroGitHub.genruntimeconfig.cache
