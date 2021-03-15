@@ -14,12 +14,12 @@ namespace IntroGitHub
             Console.Write("Ingrese un valor para b: ");
             b = Int32.Parse(Console.ReadLine());
 
-            Console.WriteLine($"\nSumando {a} + {b} igual: {AddNumber(a,b)} ");
+            Console.WriteLine($"\nRestando {a} - {b} igual: {DeleteNumber(a,b)} ");
         }
 
-        public static int AddNumber(int a, int b)
+        public static int DeleteNumber(int a, int b)
         {
-            return a + b;
+            return a - b;
         }
 
     }
