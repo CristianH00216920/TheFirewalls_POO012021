@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\David Moreno\\Desktop\\POO\\IntroCris\\TheFirewalls_POO012021\\IntroGitHub\\IntroGitHub.csproj": {}
+    "C:\\Users\\50376\\Desktop\\UCA\\CICLO III\\POO\\Tareas\\IntroGitHub\\TheFirewalls_POO012021\\IntroGitHub\\IntroGitHub.csproj": {}
   },
   "projects": {
-    "C:\\Users\\David Moreno\\Desktop\\POO\\IntroCris\\TheFirewalls_POO012021\\IntroGitHub\\IntroGitHub.csproj": {
+    "C:\\Users\\50376\\Desktop\\UCA\\CICLO III\\POO\\Tareas\\IntroGitHub\\TheFirewalls_POO012021\\IntroGitHub\\IntroGitHub.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\David Moreno\\Desktop\\POO\\IntroCris\\TheFirewalls_POO012021\\IntroGitHub\\IntroGitHub.csproj",
+        "projectUniqueName": "C:\\Users\\50376\\Desktop\\UCA\\CICLO III\\POO\\Tareas\\IntroGitHub\\TheFirewalls_POO012021\\IntroGitHub\\IntroGitHub.csproj",
         "projectName": "IntroGitHub",
-        "projectPath": "C:\\Users\\David Moreno\\Desktop\\POO\\IntroCris\\TheFirewalls_POO012021\\IntroGitHub\\IntroGitHub.csproj",
-        "packagesPath": "C:\\Users\\David Moreno\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\David Moreno\\Desktop\\POO\\IntroCris\\TheFirewalls_POO012021\\IntroGitHub\\obj\\",
+        "projectPath": "C:\\Users\\50376\\Desktop\\UCA\\CICLO III\\POO\\Tareas\\IntroGitHub\\TheFirewalls_POO012021\\IntroGitHub\\IntroGitHub.csproj",
+        "packagesPath": "C:\\Users\\50376\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\50376\\Desktop\\UCA\\CICLO III\\POO\\Tareas\\IntroGitHub\\TheFirewalls_POO012021\\IntroGitHub\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\David Moreno\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\50376\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
